@@ -1,4 +1,4 @@
-Firebase ile authentication ve firestore kullanılarak oluşturulan Instagram klonu.
+Firebase authentication ve firestore kullanılarak oluşturulan Instagram klonu.
 
 
 
